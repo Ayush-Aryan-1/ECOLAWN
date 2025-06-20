@@ -1,7 +1,6 @@
-_**ECOLAWN** 
-<br>
-_It is a web project designed to promote sustainable lawn care and eco-friendly landscaping. Built entirely with HTML and styled using Tailwind CSS, this project demonstrates how minimal, modular, and maintainable frontend code can be paired with cutting-edge styling practices.
-</br>
+## **ECOLAWN** 
+
+It is a web project designed to promote sustainable lawn care and eco-friendly landscaping. Built entirely with HTML and styled using Tailwind CSS, this project demonstrates how minimal, modular, and maintainable frontend code can be paired with cutting-edge styling practices.
 ## Features
 
 - Responsive design using Tailwind CSS
