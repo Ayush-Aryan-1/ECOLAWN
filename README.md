@@ -28,5 +28,3 @@ It is a web project designed to promote sustainable lawn care and eco-friendly l
 3. **Customize:**
     - Edit HTML files as needed.
     - Modify Tailwind configuration if you want to change the design system (requires Node.js and Tailwind setup).
-
-## Folder Structure
